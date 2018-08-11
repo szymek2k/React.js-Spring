@@ -1,4 +1,4 @@
-package react_spring.react_spring;
+package controller;
 
 /**
  * Hello world!
