@@ -1,0 +1,4 @@
+1) org.apache.maven.archiver.MavenArchiver.getManifest(org.apache.maven.project.MavenProject,
+
+Install the latest version by using https://otto.takari.io/content/sites/m2e.extras/m2eclipse-mavenarchiver/0.17.2/N/LATEST/ as the update site. (Use the "Install new software..." menu, 
+paste this URL into to the "Work with" text box, and install the "m2e extensions" plugins.)
